@@ -17,7 +17,7 @@ image:
 
 ![Pantalla de Configuración]({{ site.github.url }}/assets/img/configurar.png)
 
-Lo primero que deberemos de hacer es adaptar la aplicación a nuestro trabajo habitual para que se contabilicen las horas más facimente.
+Lo primero que deberemos de hacer es adaptar la aplicación a nuestro trabajo habitual para que se contabilicen las horas más fácilmente.
 
 
 ### [Pantalla principal.]({{ site.github.url }}{% post_url 2020-07-19-pantallapp %})
