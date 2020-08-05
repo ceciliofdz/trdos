@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 image:
   feature: welcome.jpg
-  teaser: welcome-teaser.jpg
+  teaser: welcome-teaser.png
   credit: Stock Photo
   creditlink: ""
 ---
@@ -28,7 +28,7 @@ Disponible en Google play
 
 ### Uso de WorkHour
 
-[Trabajando con WorkHour]({{ site.github.url }}{% post_url 2020-07-25-Working-With-WorkHour %}): Aquí se explica como introducir tus horarios para tenerlos controlados.
+[Trabajando con WorkHour]({{ site.github.url }}{% post_url 2020-07-25-Working-With-WorkHour %}): Se explica como introducir tus horarios para tenerlos controlados.
 
 
 ### Pantallas

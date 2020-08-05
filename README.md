@@ -1,8 +1,10 @@
 **WorkHour** Control Horario.
 ====================
 
-Tracking tus horas de trabajo.
+Tracking de tus horas de trabajo.
 ---------------------
+
+![Gráficos Acumulados](/assets/img/t_512x512.png)
 
 Instala desde el Google Play.
 
