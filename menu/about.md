@@ -4,7 +4,7 @@ title: Acerca de WorkHour...
 ---
 ### Aplicación para el control horario.
 
-![Menu de WorkHour](/assets/img/menu.png)
+![Menu de WorkHour]({{ site.github.url }}/assets/img/menu.png)
 
 Ya siempre sabrás si te pasastes de horas o hicistes de menos.
 

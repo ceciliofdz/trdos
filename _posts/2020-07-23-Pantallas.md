@@ -24,35 +24,35 @@ Aquí podemos ver todas las pantallas que componen la navegación de la aplicaci
 
 ### Gráficos para las horas acumuladas.
 
-![Gráficos Acumulados](/assets/img/menu_acumulado.png)
+![Gráficos Acumulados]({{ site.github.url }}/assets/img/menu_acumulado.png)
 
 | Acumulado  |
 | -----------|
-| ![Acumulado Semanal](/assets/img/acumulado_w.png) |
-| ![Acumulado Mensual](/assets/img/acumulado_m.png) |
-| ![Acumulado Anual](/assets/img/acumulado_a.png)   |
+| ![Acumulado Semanal]({{ site.github.url }}/assets/img/acumulado_w.png) |
+| ![Acumulado Mensual]({{ site.github.url }}/assets/img/acumulado_m.png) |
+| ![Acumulado Anual]({{ site.github.url }}/assets/img/acumulado_a.png)   |
 
 ### Gráficos para las horas trabajadas.
 
-![Tablas de horas trabajadas](/assets/img/menu_trabajadas.png)
+![Tablas de horas trabajadas]({{ site.github.url }}/assets/img/menu_trabajadas.png)
 
 | Tabla de horas trabajadas |
 | --------------------------|
-| ![Trabajadas Semanal](/assets/img/trabajadas_w.png) |
-| ![Trabajadas Mensual](/assets/img/trabajadas_m.png) |
+| ![Trabajadas Semanal]({{ site.github.url }}/assets/img/trabajadas_w.png) |
+| ![Trabajadas Mensual]({{ site.github.url }}/assets/img/trabajadas_m.png) |
 
 ### Resumen.
 
-![Resumen horario](/assets/img/resumen.png)
+![Resumen horario]({{ site.github.url }}/assets/img/resumen.png)
 
 ### Importar o exportar los horarios de trabajo.
 
-![Importar - Exportar](/assets/img/import.png)
+![Importar - Exportar]({{ site.github.url }}/assets/img/import.png)
 
 ### Pantalla principal.
 
-![Pantalla de principal](/assets/img/pantallapp.png)
+![Pantalla de principal]({{ site.github.url }}/assets/img/pantallapp.png)
 
 ### Configuración.
 
-![Pantalla de configuración](/assets/img/pconfiguracion.png)
+![Pantalla de configuración]({{ site.github.url }}/assets/img/pconfiguracion.png)

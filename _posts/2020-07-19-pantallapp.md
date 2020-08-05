@@ -24,35 +24,35 @@ Pantalla principal de la aplicación.
 
 ### Alta de trabajos.
 
-![Alta de trabajos](/assets/img/alta.png)
+![Alta de trabajos]({{ site.github.url }}/assets/img/alta.png)
 
 Desde este botón podremos dar de alta un nuevo horario de trabajo.
 
 Nos llevará a la siguiente pantalla.
 
-![Pantalla de Alta](/assets/img/altatr.png)
+![Pantalla de Alta]({{ site.github.url }}/assets/img/altatr.png)
 
 
 ### Editar un trabajo.
 
 Haciendo touch en un trabajo de la lista podremos modificarlo.
 
-![Touch](/assets/img/touchpp.png)
+![Touch]({{ site.github.url }}/assets/img/touchpp.png)
 
-Entraremos en una pantalla identica a la de alta pero que contendrá la información del trabajo.
+Entraremos en una pantalla idéntica a la de alta pero que contendrá la información del trabajo.
 
-![Pantalla de Alta](/assets/img/edittr.jpg)
+![Pantalla de Alta]({{ site.github.url }}/assets/img/edittr.jpg)
 
 Donde podremos grabar los cambios o borrar el trabajo.
 
 ### Filtrar la lista de trabajos (semana, mes o semestre).
 
-![Touch](/assets/img/filtro.png)
+![Touch]({{ site.github.url }}/assets/img/filtro.png)
 
 Pulsando en el icono de filtro podemos elegir el número de trabajos a visualizar en la lista principal.
 
 ### Borrado permanente de un trabajo.
 
-![Touch](/assets/img/papelera.png)
+![Touch]({{ site.github.url }}/assets/img/papelera.png)
 
 Pulsando en la papelera podremos eliminar un trabajo que no queremos mantener.
