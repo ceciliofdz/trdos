@@ -33,7 +33,7 @@ Disponible en Google play
 
 ### Pantallas
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2020-07-23-Pantallas %})
+[Visualización de las pantallas que conforman la aplicación]({{ site.github.url }}{% post_url 2020-07-23-Pantallas %}): Se relacionan las pantallas de la aplicación.
 
 ### ¿Preguntas?
 
