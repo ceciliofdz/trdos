@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acerca del Autor"
+title: "Acerca del Programador"
 author: "Kontask"
 categories: journal
 tags: [documentation,sample]
