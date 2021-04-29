@@ -15,7 +15,7 @@ WorkHour es una minimalista app para controlar tus horas de trabajo.
 
 Ahora ya siempre tendrás el control en tus manos. Si te desvías lo sabrás y podrás compensar el horario. Finaliza la semana, el mes el año con las horas que debes trabajar.
 
-También puedes tener una pequeña facturación personal de tus horas con los resumenes y el coste de las horas trabajadas.
+También puedes tener una pequeña facturación personal de tus horas con los resúmenes y el coste de las horas trabajadas.
 
 ### Comenzando con la app.
 

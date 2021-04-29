@@ -6,6 +6,6 @@ title: Acerca de WorkHour...
 
 ![Menu de WorkHour]({{ site.github.url }}/assets/img/menu.png)
 
-Ya siempre sabrás si te pasastes de horas o hicistes de menos.
+Ya siempre sabrás si te pasaste de horas o hiciste de menos.
 
 Controla los pagos que tienes que recibir semanal y mensualmente por tu  trabajo.
