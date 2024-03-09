@@ -4,7 +4,12 @@
 Tracking de tus horas de trabajo.
 ---------------------
 
-![Gráficos Acumulados]({{ site.github.url }}/assets/img/t_512x512.png)
+
+<br>
+
+<img width="150" alt="Pantalla Inicial " src="assets\img\t_512x512.png">
+
+<br>
 
 Instala desde el Google Play.
 
